@@ -292,7 +292,7 @@ ggplot(data = ch1_df, aes(x = Spend)) +
 
 
 # Extract posterior samples
-# Plot for media channel 1
+# Plot for media channel 2
 
 ## Get actual sales for channel 1
 sales_ch2 <- rep(true_intercept, time)
